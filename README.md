@@ -1,7 +1,7 @@
 ### Hi there 👋
-####🔭 I’m currently working(at least trying) on Observational astronomy
-####🌱 I’m currently learning Python and Chemistry
-####⛔ Knowing very little about the world
+#### 🔭 I’m currently working(at least trying) on Observational astronomy
+#### 🌱 I’m currently learning Python and Chemistry
+#### ⛔ Knowing very little about the world
 <!--
 **codestoler/codestoler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
